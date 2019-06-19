@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Selamat Hari Raya
                 </div>
 
                 <div class="links">
